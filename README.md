@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PardonMySkillz
 - 👀 I’m interested in Artificial Intelligence, Robotics
-- 🌱 I’m currently learning C++, Arduino, Java and OOP
-- 💞️ I’m looking to collaborate on small scale AI projects
+- 🌱 I’m currently learning C++, Python
 - 📫 How to reach me Discord:TarnishedShinobi116#4293 ; Reddit: Pardonmyskillz; email:hcwong.henry@gmail.com
 
 <!---
